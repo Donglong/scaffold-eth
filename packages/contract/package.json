@@ -1,12 +1,12 @@
 {
-    "name": "@myapp/contract",
-    "scripts": {
-        "test": "forge test",
-        "compile": "forge build",
-        "install-dep": "forge install --no-commit",
-        "deploy": "forge create",
-        "remove-dep": "forge remove",
-        "clean": "forge clean",
-        "format": "forge fmt"
-    }
+  "name": "@myapp/contract",
+  "scripts": {
+    "test": "forge test",
+    "compile": "forge build",
+    "install-dep": "forge install --no-commit",
+    "deploy": "forge create",
+    "remove-dep": "forge remove",
+    "clean": "forge clean",
+    "format": "forge fmt"
+  }
 }

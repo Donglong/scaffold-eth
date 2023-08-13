@@ -1,0 +1,13 @@
+.yarn/
+.next/
+node_modules/
+
+yarn.lock
+.pnp.cjs
+.pnp.loader.mjs
+
+**/generated/**/*
+
+packages/contract/lib
+packages/contract/out/
+packages/contract/cache/

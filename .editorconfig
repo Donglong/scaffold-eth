@@ -1,0 +1,12 @@
+root = true
+
+# All files
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+
+# Solidity
+[*.sol]
+indent_size=4
